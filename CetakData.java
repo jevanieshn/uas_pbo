@@ -1,3 +1,3 @@
 public interface CetakData{
-    void cetakdata();
+    void cetakData();
 }
